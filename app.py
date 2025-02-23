@@ -1,4 +1,4 @@
-import streamlit as st
+'''import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -141,4 +141,10 @@ else:
     btn2 = st.sidebar.button('Find Investor Details')
     if btn2:
         load_investor_details(selected_investor)
+'''
 
+
+
+import streamlit as st
+st.title('DT ROUGH AND TOUGH')
+st.sidebar.title('Hey all')
